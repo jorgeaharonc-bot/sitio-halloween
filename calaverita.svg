@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 500" role="img" aria-labelledby="title desc">
+  <title id="title">Calaverita de Día de Muertos</title>
+  <desc id="desc">Una calavera sonriente rodeada de flores de cempasúchil, velas y papel picado.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#39224d"/><stop offset="1" stop-color="#1d122b"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#ffbd58" stop-opacity=".34"/><stop offset="1" stop-color="#ffbd58" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="420" height="500" rx="26" fill="url(#bg)"/>
+  <circle cx="210" cy="240" r="190" fill="url(#glow)"/>
+  <!-- papel picado -->
+  <path d="M26 22h105v62H26z" fill="#ff70a6"/><path d="M34 30h89v46H34z" fill="none" stroke="#ffe8bf" stroke-width="2" stroke-dasharray="5 5"/>
+  <path d="M157 22h105v62H157z" fill="#ffad42"/><path d="M165 30h89v46h-89z" fill="none" stroke="#fff2d5" stroke-width="2" stroke-dasharray="5 5"/>
+  <path d="M288 22h105v62H288z" fill="#7e5ac7"/><path d="M296 30h89v46h-89z" fill="none" stroke="#fff2d5" stroke-width="2" stroke-dasharray="5 5"/>
+  <path d="M78 45h20m-10-10v20m131-10h20m-10-10v20m131-10h20m-10-10v20" stroke="#fff2d5" stroke-width="4" stroke-linecap="round"/>
+  <!-- velas -->
+  <rect x="52" y="330" width="42" height="112" rx="8" fill="#f4d8a6"/><path d="M73 319c-18-21 9-28 0-47 27 22 13 35 0 47" fill="#ffad42"/><path d="M73 314c-8-11 5-14 2-24 12 12 5 19-2 24" fill="#fff2a6"/>
+  <rect x="326" y="330" width="42" height="112" rx="8" fill="#f4d8a6"/><path d="M347 319c-18-21 9-28 0-47 27 22 13 35 0 47" fill="#ffad42"/><path d="M347 314c-8-11 5-14 2-24 12 12 5 19-2 24" fill="#fff2a6"/>
+  <!-- calavera -->
+  <path d="M210 126c-76 0-119 56-119 127 0 48 25 77 56 96v42c0 10 8 18 18 18h90c10 0 18-8 18-18v-42c31-19 56-48 56-96 0-71-43-127-119-127z" fill="#fff0d4" stroke="#f0c98a" stroke-width="5"/>
+  <path d="M153 366h114v27H153z" fill="#fff0d4"/>
+  <path d="M169 374v18m27-18v18m28-18v18m27-18v18" stroke="#b58a72" stroke-width="5"/>
+  <!-- ojos flor -->
+  <g fill="#6f3b79"><circle cx="158" cy="249" r="35"/><circle cx="262" cy="249" r="35"/></g>
+  <g fill="#ff70a6"><circle cx="158" cy="205" r="10"/><circle cx="158" cy="293" r="10"/><circle cx="114" cy="249" r="10"/><circle cx="202" cy="249" r="10"/><circle cx="262" cy="205" r="10"/><circle cx="262" cy="293" r="10"/><circle cx="218" cy="249" r="10"/><circle cx="306" cy="249" r="10"/></g>
+  <circle cx="158" cy="249" r="9" fill="#ffcf58"/><circle cx="262" cy="249" r="9" fill="#ffcf58"/>
+  <!-- nariz y sonrisa -->
+  <path d="M210 278l-15 26h30z" fill="#d87586"/>
+  <path d="M164 326q46 39 92 0" fill="none" stroke="#713e5b" stroke-width="7" stroke-linecap="round"/>
+  <path d="M184 329v17m26-10v19m26-26v17" stroke="#713e5b" stroke-width="4"/>
+  <!-- flor de adorno -->
+  <g transform="translate(210 135)"><g fill="#ffad42"><ellipse cy="-19" rx="9" ry="17"/><ellipse cy="19" rx="9" ry="17"/><ellipse cx="-19" rx="17" ry="9"/><ellipse cx="19" rx="17" ry="9"/><ellipse transform="rotate(45)" cy="-19" rx="9" ry="17"/><ellipse transform="rotate(45)" cy="19" rx="9" ry="17"/></g><circle r="9" fill="#7b426f"/></g>
+  <!-- flores inferiores -->
+  <g transform="translate(124 448)"><g fill="#ffad42"><ellipse cy="-14" rx="7" ry="13"/><ellipse cy="14" rx="7" ry="13"/><ellipse cx="-14" rx="13" ry="7"/><ellipse cx="14" rx="13" ry="7"/></g><circle r="6" fill="#7b426f"/></g>
+  <g transform="translate(296 448)"><g fill="#ff70a6"><ellipse cy="-14" rx="7" ry="13"/><ellipse cy="14" rx="7" ry="13"/><ellipse cx="-14" rx="13" ry="7"/><ellipse cx="14" rx="13" ry="7"/></g><circle r="6" fill="#ffcf58"/></g>
+  <text x="210" y="482" text-anchor="middle" fill="#ffe3ad" font-family="sans-serif" font-size="13" letter-spacing="3">RECUERDO · TRADICIÓN · VIDA</text>
+</svg>
